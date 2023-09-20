@@ -1,6 +1,7 @@
 # Assignment-2
 
 মডিউল ২ এর এসাইনমেন্ট
+
 Task 1: Looping with Increment using a Function
 Write a PHP function that uses a for loop to print all even numbers from 1 to 20, but with a
 step of 2. In other words, you should print 2, 4, 6, 8, 10, 12, 14, 16, 18, 20. The function
