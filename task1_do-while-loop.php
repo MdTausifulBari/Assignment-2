@@ -8,3 +8,5 @@ function loop($start, $end, $step){
 }
 
 loop(1, 20, 2);
+
+// it a do while loop
